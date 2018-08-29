@@ -1,8 +1,8 @@
 <?php
-$DbHost = /*DATABASE HOST*/;
-$DbUser = /*DATABASE USER*/;
-$DbPass = /*DATABASE PASSWORD*/;
-$DbName = /*DATABASE NAME*/;
+$DbHost = /https://www.db4free.net/;
+$DbUser = /Ins5736/;
+$DbPass = /4MLDiabetes/;
+$DbName = /ins5736db/;
 
 $uploadapi = 'https://uploads.tidepool.org';
 $baseurl = 'https://api.tidepool.org';
